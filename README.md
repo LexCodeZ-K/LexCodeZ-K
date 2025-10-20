@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/LexCodeZ-K/LexCodeZ-K/blob/main/assets/https://tenor.com/bmSYT.gif?raw=true" alt="animated banner" width="600"/>
+  <img src="https://tenor.com/bmSYT.gif/blob/main/assets/banner.gif?raw=true" alt="animated banner" width="600"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
